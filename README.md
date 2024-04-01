@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pfps.gg/banners/5987-shooting-stars-8-bit.gif](https://cdn.discordapp.com/attachments/1174582109554352219/1224322428897857617/Antonius_Marcelino.gif?ex=661d121d&is=660a9d1d&hm=396c04ad559a33334f920e4307446ad576b244bd893298d13c9e34d203e40dd8&)
+[![MasterHead](https://cdn.discordapp.com/attachments/1174582109554352219/1224322428897857617/Antonius_Marcelino.gif?ex=661d121d&is=660a9d1d&hm=396c04ad559a33334f920e4307446ad576b244bd893298d13c9e34d203e40dd8&)]
 <h1 align="center">Yo 🫡, I'm Antonius Marcelino</h1>
 <h3 align="center">Im just a lazy teen that wanna learn stuff</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Jpc3JldWxlazMxNWIxMThtNDFrcjdxNnJzZDB1cHhnb3NobWh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif">

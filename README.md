@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pfps.gg/banners/5987-shooting-stars-8-bit.gif)
+#[![MasterHead](https://cdn.pfps.gg/banners/5987-shooting-stars-8-bit.gif)
 <h1 align="center">Yo 🫡, I'm Antonius Marcelino</h1>
 <h3 align="center">Im just a lazy teen that wanna learn stuff</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Jpc3JldWxlazMxNWIxMThtNDFrcjdxNnJzZDB1cHhnb3NobWh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif">

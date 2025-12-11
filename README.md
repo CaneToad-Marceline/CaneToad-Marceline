@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canetoad-marceline&label=Profile%20views&color=0e75b6&style=flat" alt="canetoad-marceline" /> </p>
 
 - 🔭 I’m currently working on **Some Machine Learning Algorithm for Military image recognition**
-
+- 🔎 Working at RAG Chatbot for Indonesian FMCG
 - ⚡ Fun fact **I love lasagna**
 
 <h3 align="left">Connect with me:</h3>
